@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Calculator\\RiderProjects\\TeacherHelp\\TeacherHelp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Calculator\\RiderProjects\\TeacherHelp\\TeacherHelp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Calculator\\RiderProjects\\TeacherHelp\\TeacherHelp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows\\staticwebassets\\msbuild.TeacherHelp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows\\staticwebassets\\msbuild.TeacherHelp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows\\staticwebassets\\msbuild.build.TeacherHelp.props",
+      "PackagePath": "build\\TeacherHelp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows\\staticwebassets\\msbuild.buildMultiTargeting.TeacherHelp.props",
+      "PackagePath": "buildMultiTargeting\\TeacherHelp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows\\staticwebassets\\msbuild.buildTransitive.TeacherHelp.props",
+      "PackagePath": "buildTransitive\\TeacherHelp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
